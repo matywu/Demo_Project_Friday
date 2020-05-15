@@ -28,3 +28,5 @@ if (query_id, cur_semester) in db_dict:
 else:
     print('學號不存在，請重新輸入。')
 
+# 系統結束，印條漂漂線
+print('-'*120)
